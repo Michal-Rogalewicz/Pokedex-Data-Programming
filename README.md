@@ -46,7 +46,7 @@ requests
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Michal-Rogalewicz/Data-Programming.git
+   git clone https://github.com/Michal-Rogalewicz/Pokedex-Data-Programming.git
    cd Data-Programming
    ```
 
